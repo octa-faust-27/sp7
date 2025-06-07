@@ -1,4 +1,4 @@
 import pandas as pd
 import streamlit as st
-#import plotly-expless as pe 
+from plotly.express import * 
 print('Es el fin de la ignorancia.')
